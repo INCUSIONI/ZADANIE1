@@ -1,0 +1,15 @@
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\bin\Debug\IntroToStylingAndTemplating.Window2.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\bin\Debug\IntroToStylingAndTemplating.Window2.exe
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\bin\Debug\IntroToStylingAndTemplating.Window2.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.exe
+C:\Users\KAB6-10\Desktop\GITHUB\IntroToStylingAndTemplating.Window2\obj\Debug\IntroToStylingAndTemplating.Window2.pdb
