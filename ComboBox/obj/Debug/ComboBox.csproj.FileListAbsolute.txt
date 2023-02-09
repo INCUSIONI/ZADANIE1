@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ComboBox\obj\Debug\ComboBox.pdb
