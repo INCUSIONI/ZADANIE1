@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\bin\Debug\Zadanie20.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\bin\Debug\Zadanie20.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\bin\Debug\Zadanie20.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Zadanie20\obj\Debug\Zadanie20.pdb
