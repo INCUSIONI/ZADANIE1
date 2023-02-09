@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\bin\Debug\TextBox.exe
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\bin\Debug\TextBox.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.exe
+C:\Users\KAB6-10\Desktop\GITHUB\TextBox\obj\Debug\TextBox.pdb
