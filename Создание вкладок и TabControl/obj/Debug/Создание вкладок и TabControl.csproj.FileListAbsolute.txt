@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\bin\Debug\Создание вкладок и TabControl.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\bin\Debug\Создание вкладок и TabControl.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\bin\Debug\Создание вкладок и TabControl.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание_вкладок_и_TabControl.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Создание вкладок и TabControl\obj\Debug\Создание вкладок и TabControl.pdb
