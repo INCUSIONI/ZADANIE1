@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\bin\Debug\Работа_с_датами.Calendar_и_DatePicker.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\bin\Debug\Работа_с_датами.Calendar_и_DatePicker.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\bin\Debug\Работа_с_датами.Calendar_и_DatePicker.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа с датами. Calendar и DatePicker.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа с датами. Calendar и DatePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа с датами. Calendar и DatePicker.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа с датами. Calendar и DatePicker.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker.exe
+C:\Users\KAB6-10\Desktop\GITHUB\Работа с датами. Calendar и DatePicker\obj\Debug\Работа_с_датами.Calendar_и_DatePicker.pdb

@@ -1,0 +1,20 @@
+﻿<Window x:Class="Работа_с_датами.Calendar_и_DatePicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Работа_с_датами.Calendar_и_DatePicker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Calendar x:Name="calendar1" FirstDayOfWeek="Monday" SelectionMode="MultipleRange"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib">
+            <Calendar.SelectedDates>
+                <sys:DateTime>01/9/2016</sys:DateTime>
+                <sys:DateTime>01/13/2016</sys:DateTime>
+                <sys:DateTime>01/24/2016</sys:DateTime>
+            </Calendar.SelectedDates>
+        </Calendar>
+        <DatePicker Name="datePicker1" IsDropDownOpen="True" SelectedDateFormat="Short" />
+    </Grid>
+</Window>
