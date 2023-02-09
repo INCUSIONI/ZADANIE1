@@ -1,0 +1,17 @@
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\bin\Debug\ListView.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\bin\Debug\ListView.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\bin\Debug\ListView.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\ListView.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\ListView\obj\Debug\GeneratedInternalTypeHelper.g.cs
