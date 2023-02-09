@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\bin\Debug\ToolBar.exe.config
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\bin\Debug\ToolBar.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\bin\Debug\ToolBar.pdb
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.g.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.exe
+C:\Users\KAB6-10\Desktop\GITHUB\ToolBar\obj\Debug\ToolBar.pdb
