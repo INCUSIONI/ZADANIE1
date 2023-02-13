@@ -1,0 +1,17 @@
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\bin\Debug\net6.0-windows\ListBox.deps.json
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\bin\Debug\net6.0-windows\ListBox.dll
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\bin\Debug\net6.0-windows\ListBox.pdb
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.csproj.AssemblyReference.cache
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox_MarkupCompile.cache
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox_MarkupCompile.lref
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.g.resources
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.AssemblyInfoInputs.cache
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.AssemblyInfo.cs
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.dll
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\refint\ListBox.dll
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ListBox.pdb
+C:\Users\ferum\OneDrive\Рабочий стол\ListBox\obj\Debug\net6.0-windows\ref\ListBox.dll
