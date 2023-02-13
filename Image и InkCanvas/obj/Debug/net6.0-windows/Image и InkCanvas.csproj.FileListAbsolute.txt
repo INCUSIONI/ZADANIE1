@@ -1,0 +1,17 @@
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\bin\Debug\net6.0-windows\Image и InkCanvas.deps.json
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\bin\Debug\net6.0-windows\Image и InkCanvas.dll
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\bin\Debug\net6.0-windows\Image и InkCanvas.pdb
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.csproj.AssemblyReference.cache
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas_MarkupCompile.cache
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas_MarkupCompile.lref
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.g.resources
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.AssemblyInfoInputs.cache
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.AssemblyInfo.cs
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.csproj.CoreCompileInputs.cache
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.dll
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\refint\Image и InkCanvas.dll
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\Image и InkCanvas.pdb
+C:\Users\ferum\OneDrive\Рабочий стол\Image и InkCanvas\obj\Debug\net6.0-windows\ref\Image и InkCanvas.dll
