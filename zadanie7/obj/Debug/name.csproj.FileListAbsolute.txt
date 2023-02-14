@@ -1,0 +1,16 @@
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.csproj.AssemblyReference.cache
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\App.g.cs
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name_MarkupCompile.cache
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name_MarkupCompile.lref
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\bin\Debug\name.exe.config
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\bin\Debug\name.exe
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\bin\Debug\name.pdb
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\MainWindow.baml
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.g.resources
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.Properties.Resources.resources
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.csproj.GenerateResource.cache
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.exe
+C:\Users\KAB6-10\Desktop\ZADANIE1-main\name\obj\Debug\name.pdb
